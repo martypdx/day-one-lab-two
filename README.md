@@ -2,9 +2,7 @@
 
 some **more more** text
 
-## heading 2
-
-
+## Heading Two
 
 - one
 - two
