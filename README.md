@@ -1,6 +1,6 @@
 # day-one-lab-two
 
-some **more** text
+some **more more** text
 
 ## heading 2
 
