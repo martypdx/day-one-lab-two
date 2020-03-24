@@ -37,4 +37,10 @@ console.log(x + 4);
 <p class="content">This is my paragraph</p>
 ```
 
-
+Name | Pet Type | Favorite Food
+---|---|---
+Lewis | Dog | Chicken
+Katie Rose | Dog | Chicken
+Sam | Cat | Water
+Minta | Cat | Banana
+Chubbs | Cat | Wet Food
